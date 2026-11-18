@@ -19,11 +19,12 @@ You do not need to touch the complex HTML or CSS to personalize this website. Ev
 
 1. Open `config.js` in any text editor.
 2. Edit the fields inside the `CONFIG` object:
-   - **`recipientName` & `senderName`**: Change the names.
+   - **`Laiba` & `Richa`**: Change the names.
    - **`colors`**: Modify the hex codes to match their favorite colors.
-   - **`countdown.targetDate`**: Set the birthday date in `YYYY-MM-DDTHH:MM:SS` format (e.g., `2026-10-15T00:00:00`).
-   - **`message.content`**: Write your own personalized birthday letter.
-   - **`memories.photos`**: Update the `path` and `caption` for your images.
+   - **`countdown.targetDate`**: Set the birthday date in `2002-11-19T00:00:00` format (e.g., `2026-10-15T00:00:00`).
+   - **`Some people are not just a part of our lives, they are a part of our childhood. ❤️
+And you're one of those people. We literally grew up together, made countless memories and shared a phase of life that we'll never get back. No matter how busy life gets or how much things change, you'll always have a special place in my heart.`**: Write your own personalized birthday letter.
+   - **``**: Update the `path` and `From silly fights to endless laughter, we've grown up making memories that will always be special. Life has changed so much, but I'm glad some bonds never change. Here's to our childhood, our memories and a friendship that I hope lasts forever.` for your images.
    - **`reasons.items`**: Add specific reasons why they are special.
 
 ## 📸 Adding Your Own Photos & Music
